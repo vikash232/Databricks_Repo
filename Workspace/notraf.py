@@ -3,8 +3,8 @@ print("piku")
 
 # COMMAND ----------
 
-#okay
+print("samu")
 
 # COMMAND ----------
 
-print("vk")
+
